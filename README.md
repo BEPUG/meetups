@@ -1,6 +1,11 @@
 # Belgian PowerShell User group Meetups
 
+The Belgian PowerShell user group (BEPUG) brings Belgian PowerShell enthousiast together.
+Our goal is bring people with a powershell interest together so we stimulate learning in a social and open environment.
 
+To support the openness we adopted a [code of conduct](.github/CODE_OF_CONDUCT.md).
+
+If you have any questions, just reach out to any of the [organizers](.github\AUTHORS.md).
 
 This repository contains all presentations from the past meetups we have had.
 
