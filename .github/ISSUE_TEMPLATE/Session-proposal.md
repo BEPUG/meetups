@@ -1,3 +1,9 @@
+---
+name: Session proposal
+about: Propose a session for our next BEPUG meeting
+
+---
+
 # Session proposal
 
 Thank you for submitting a session for our next BEPUG event! 

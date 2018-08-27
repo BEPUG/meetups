@@ -1,3 +1,8 @@
+---
+name: Meetup playbook
+about: playbook to organize a BEPUG meetup
+
+---
 # Belgian PowerShell meetup tasklist
 
 ## Introduction
