@@ -11,6 +11,8 @@ This repository contains all presentations from the past meetups we have had.
 
 ## Meetups
 
+:zap: [Register](https://www.eventbrite.com/o/bepug-8895256961) for our next event! :zap:
+
 ### September 27, 2018
 
 * Session1 by Jeff Wouters
