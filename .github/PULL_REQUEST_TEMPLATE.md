@@ -16,7 +16,8 @@ To maximize transparency we have put together some guideliness.
 ## The guideliness
 
 We appreciate you provide your session materials using the following directory structure:
-``` 
+
+```bash
 <meetup>\<your session>\
     |
     ----- <session title - speaker name>. ppt|pdf
