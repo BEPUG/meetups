@@ -15,7 +15,7 @@ This repository contains all presentations from the past meetups we have had.
 
 ### September 27, 2018
 
-* TBD, Jeff Wouters
+* Infrastructure-as-Code: VSTS, Azure and the glue of PowerShell, Jeff Wouters
 * Azure Cloud Shell and SHiPS, Steven Taylor
 * TBD, Christof Van Geendertaelen
 * Function ctrl-c {}, Merlijn Van Waeyenberghe
