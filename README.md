@@ -17,7 +17,7 @@ This repository contains all presentations from the past meetups we have had.
 
 * Infrastructure-as-Code: VSTS, Azure and the glue of PowerShell, Jeff Wouters
 * Azure Cloud Shell and SHiPS, Steven Taylor
-* TBD, Christof Van Geendertaelen
+* Stick to the full potential of PowerShell, Christof Van Geendertaelen
 * Function ctrl-c {}, Merlijn Van Waeyenberghe
 * Too late for a complex ARM template by Ivo Haagen
 
