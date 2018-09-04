@@ -6,7 +6,7 @@ Too late for a complex ARM template
 
 ## Speaker
 
-Merlijn Van Waeyenberghe
+Ivo Haagen
 
 ## Abstract
 
