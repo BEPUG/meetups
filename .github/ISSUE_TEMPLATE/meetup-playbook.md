@@ -42,7 +42,8 @@ The lighting talks lower the bar to engage new speakers and build a stronger com
 
 * [ ] announce event at regular intervals  
 * [ ] create scheduled announcements (speaker and session specific)  
-* [ ] update meetup folder with speaker info and session info  
+* [ ] update meetup folder with speaker info and session info
+* [ ] add event to techcommunity.microsoft.com
 
 #### Speaker engagement\ information
 
