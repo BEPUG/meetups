@@ -17,7 +17,7 @@ Anything goes as long as it follows a couple of rules:
 
 ## Format
 
-Currently we only have one format (in-person) meetups, but as we grow we might extend to different formats like on-line meetups, PowerSHell Saterdays. etc.
+Currently we only have one format (in-person) meetups, but as we grow we might extend to different formats like on-line meetups, PowerShell Saterdays. etc.
 
 ### In-person meetups
 
