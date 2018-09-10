@@ -1,5 +1,5 @@
 ---
-name: Session proposal
+name: "\U0001f4e2 Session proposal"
 about: Propose a session for our next BEPUG meeting
 
 ---

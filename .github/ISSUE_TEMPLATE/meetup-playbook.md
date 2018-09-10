@@ -1,5 +1,5 @@
 ---
-name: Meetup playbook
+name: " \U0001f4d1 Meetup playbook"
 about: playbook to organize a BEPUG meetup
 
 ---
