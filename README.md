@@ -25,8 +25,8 @@ Hosted at [Xylos](https://www.xylos.com/)
 
 ### June 7, 2018
 
-* [Moving Your DSC Pull Server into the future](20180607/Moving Your DSC Pull Server into the future - Ben Gelens/README.md), Ben Gelens
-* [Flexible PowerShell logging without reinventing the wheel](20180607/Flexible PowerShell logging without reinventing the wheel - Kim Oppalfens/README.md), Kim Oppalfens
-* [My PowerShell development aids]("20180607/My PowerShell development aids - Stijn Callebaut/README.md") , Stijn Callebaut
+* Moving Your DSC Pull Server into the future, Ben Gelens
+* Flexible PowerShell logging without reinventing the wheel, Kim Oppalfens
+* My PowerShell development aids, Stijn Callebaut
 
 Hosted at [itnetX Belgium](https://www.itnetx.be)
