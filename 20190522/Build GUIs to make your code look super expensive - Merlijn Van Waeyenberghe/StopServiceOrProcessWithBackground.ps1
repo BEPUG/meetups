@@ -10,9 +10,9 @@ $xaml = @'
    Width ="400"
    SizeToContent="Height"
    Title="Service and Process Stopper"
-   Topmost="True" WindowStyle="ThreeDBorderWindow"  Foreground="{x:Null}" d:DesignHeight="157.619" ResizeMode="NoResize" Icon="C:\Users\MerlijnVanWaeyenberg\Pictures\bepuglogo200_DYm_icon.ico">
+   Topmost="True" WindowStyle="ThreeDBorderWindow"  Foreground="{x:Null}" d:DesignHeight="157.619" ResizeMode="NoResize" Icon="C:\git\BEPUG\meetups\20190522\Build GUIs to make your code look super expensive - Merlijn Van Waeyenberghe\bepuglogo200_DYm_icon.ico">
     <Window.Background>
-        <ImageBrush Opacity="0.5" ImageSource="C:\git\BEPUG\MeetupMay2019\it-background.jpg" Stretch="None"/>
+        <ImageBrush Opacity="0.5" ImageSource="C:\git\BEPUG\meetups\20190522\Build GUIs to make your code look super expensive - Merlijn Van Waeyenberghe\it-background.jpg" Stretch="None"/>
     </Window.Background>
     <Window.Effect>
         <DropShadowEffect/>
