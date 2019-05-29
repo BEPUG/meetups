@@ -1,9 +1,8 @@
 # Belgian PowerShell User group Meetups
 
-The Belgian PowerShell user group (BEPUG) brings Belgian PowerShell enthousiast together.  
-Our goal is bring people with a powershell interest together so we stimulate learning in a social and open environment.
+The Belgian PowerShell User Group (BEPUG) has the goal to bring together PowerShell enthousiasts and to stimulate learning in a social and open environment.
 
-To support the openness we adopted a [code of conduct](.github/CODE_OF_CONDUCT.md).
+To underline our open culture, we adopted a [code of conduct](.github/CODE_OF_CONDUCT.md).
 
 If you have any questions, just reach out to any of the [organizers](.github/AUTHORS.md).
 
@@ -11,7 +10,14 @@ This repository contains all presentations from the past meetups we have had.
 
 ## Meetups
 
-:zap: [Register](https://www.eventbrite.com/o/bepug-8895256961) for our next event! :zap:
+:zap: Next meetup to be announced for October 2019. Keen an eye on our Twitter feed! :zap:
+
+### May 22, 2019
+
+* Build GUIs to make your code look super expensive, Merlijn Van Waeyenberghe
+* PowerShell Core Benefits and challenges, Aleksandar Nikolić
+
+Hosted at [Cheops](https://www.cheops.com/)
 
 ### September 27, 2018
 
