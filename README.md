@@ -10,7 +10,15 @@ This repository contains all presentations from the past meetups we have had.
 
 ## Meetups
 
-:zap: Next meetup to be announced for October 2019. Keen an eye on our Twitter feed! :zap:
+:zap: Introducing peer to pear learning sessions! Bring your laptop! :zap:
+
+### March 11, 2020
+
+* Modernizing PowerShell Scripts, Mathias van den Elsacker
+* 2nd session TBA
+* Peer to peer learning
+
+Hosted at [ob-V-us](https://www.obvus.be)
 
 ### May 22, 2019
 
@@ -25,7 +33,7 @@ Hosted at [Cheops](https://www.cheops.com/)
 * Azure Cloud Shell and SHiPS, Steven Taylor
 * Stick to the full potential of PowerShell, Christof Van Geendertaelen
 * Function ctrl-c {}, Merlijn Van Waeyenberghe
-* Too late for a complex ARM template by Ivo Haagen
+* Too late for a complex ARM template, Ivo Haagen
 
 Hosted at [Xylos](https://www.xylos.com/)
 
