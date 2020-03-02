@@ -15,7 +15,7 @@ This repository contains all presentations from the past meetups we have had.
 ### March 11, 2020
 
 * Modernizing PowerShell Scripts, Mathias van den Elsacker
-* 2nd session TBA
+* Git(Hub) 101, Stijn & Merlijn
 * Peer to peer learning
 
 Hosted at [ob-V-us](https://www.obvus.be)
